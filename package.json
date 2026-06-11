@@ -6816,10 +6816,10 @@
                                                     },
                                                     {
                                                         "key": "g",
-                                                        "name": "Go to definition",
+                                                        "name": "Go to declaration",
                                                         "icon": "symbol-function",
                                                         "type": "command",
-                                                        "command": "editor.action.revealDefinition"
+                                                        "command": "editor.action.revealDeclaration"
                                                     },
                                                     {
                                                         "key": "r",
